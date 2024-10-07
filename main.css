@@ -1,3 +1,43 @@
 body {
-  background-color: black;
+  background-color: #1d3557;
+}
+
+h2{
+  color: #1d3557
+}
+
+article {
+  padding: 10px;
+}
+
+#job1 {
+  font-family: 'Courier New', Courier, monospace;
+  border: 20px dotted #f1faee;
+  background-color: #457b9d;
+  border-radius: 20px;
+  padding: 20px;
+
+}
+
+
+#job2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 20px solid #457b9d;
+  background-color: #a8dadc;
+  border-radius: 20px;
+  padding: 20px;
+
+}
+
+#job3 {
+  font-family: 'Times New Roman', Times, serif;
+  border: 20px dashed #1d3557;
+  background-color: #f1faee;
+  border-radius: 20px;
+  padding: 20px;
+
+}
+
+footer {
+  color: #a8dadc;
 }
